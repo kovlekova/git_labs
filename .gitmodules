@@ -1,0 +1,3 @@
+[submodule "git_labs"]
+	path = git_labs
+	url = git@github.com:kovlekova/git_labs.git
